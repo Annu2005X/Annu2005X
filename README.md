@@ -1,16 +1,20 @@
-## Hi there 👋
+Hi, I'm Annamalai 👋
 
-<!--
-**Annu2005X/Annu2005X** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build apps and intelligent systems that solve real-world problems.
 
-Here are some ideas to get you started:
+**Currently working on**
+- Mobile apps
+- Machine learning projects
+- Cloud-connected systems
+- Personal & project websites
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Tools I use**
+React • Flutter • Python • AWS • Git • Figma
+
+**Websites**
+🌐 github.com/Annu2005X  
+🌐 linkedin.com/in/annamalai-srinivas-39927628b  
+
+**Reach me**
+📧 2k21professional@gmail.com
+
