@@ -14,7 +14,6 @@ React • Flutter • Python • AWS • Git • Figma
 **Websites**
 
 🌐 github.com/Annu2005X  
-🌐 linkedin.com/in/annamalai-srinivas-39927628b  
 
 **Reach me**
 📧 2k21professional@gmail.com
